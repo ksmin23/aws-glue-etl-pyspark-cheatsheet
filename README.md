@@ -7,4 +7,4 @@ Jupyter Notebook을 이용해서 로컬 환경에서 Docker와 PySpark을 이용
 # Reference
 * [Building an AWS Glue ETL pipeline locally without an AWS account](https://aws.amazon.com/ko/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/)
 * [Developing AWS Glue ETL jobs locally using a container](https://aws.amazon.com/ko/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/)
-* [MacOS에서 PySpark+AWS Glue 로컬 개발 환경 구성 하기](https://gist.github.com/ksmin23/0ee91bbc46dedf363111309df2c090a1)
+* [MacOS에서 PySpark + AWS Glue 로컬 개발 환경 구성 하기](https://gist.github.com/ksmin23/0ee91bbc46dedf363111309df2c090a1)

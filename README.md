@@ -1,4 +1,4 @@
-# AWS Glue ETL Cheatsheet
+# AWS Glue ETL PySpark Cheatsheet
 
 Jupyter Notebook을 이용해서 로컬 환경에서 Docker와 PySpark을 이용해서 AWS Glue에서 제공되는 Transform 함수들을 직접 실습해 볼 수 있습니다.
 이 Jupyter Notebook은 [Building an AWS Glue ETL pipeline locally without an AWS account](https://aws.amazon.com/ko/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/) 내용을 정리해서 만들었습니다. <br/>
